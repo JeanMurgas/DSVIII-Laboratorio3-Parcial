@@ -92,16 +92,16 @@
     <Compile Include="frmDatosCliente.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmDeposito.Designer.vb">
-      <DependentUpon>frmDeposito.vb</DependentUpon>
+    <Compile Include="frmDeposito-Retiro.Designer.vb">
+      <DependentUpon>frmDeposito-Retiro.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmDeposito.vb">
+    <Compile Include="frmDeposito-Retiro.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmRetiro.Designer.vb">
-      <DependentUpon>frmRetiro.vb</DependentUpon>
+    <Compile Include="frmMovimientos.Designer.vb">
+      <DependentUpon>frmMovimientos.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmRetiro.vb">
+    <Compile Include="frmMovimientos.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />

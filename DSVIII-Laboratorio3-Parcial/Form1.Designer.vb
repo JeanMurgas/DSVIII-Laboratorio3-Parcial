@@ -54,14 +54,14 @@ Partial Class Form1
         'DepositoToolStripMenuItem
         '
         Me.DepositoToolStripMenuItem.Name = "DepositoToolStripMenuItem"
-        Me.DepositoToolStripMenuItem.Size = New System.Drawing.Size(66, 20)
-        Me.DepositoToolStripMenuItem.Text = "Deposito"
+        Me.DepositoToolStripMenuItem.Size = New System.Drawing.Size(102, 20)
+        Me.DepositoToolStripMenuItem.Text = "Deposito/Retiro"
         '
         'RetiroToolStripMenuItem
         '
         Me.RetiroToolStripMenuItem.Name = "RetiroToolStripMenuItem"
-        Me.RetiroToolStripMenuItem.Size = New System.Drawing.Size(50, 20)
-        Me.RetiroToolStripMenuItem.Text = "Retiro"
+        Me.RetiroToolStripMenuItem.Size = New System.Drawing.Size(89, 20)
+        Me.RetiroToolStripMenuItem.Text = "Movimientos"
         '
         'Form1
         '
